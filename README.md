@@ -1,6 +1,6 @@
 # Utils
 Here are some utilities I wrote.
-You may find them usefull, you may not.
+You may find them useful, you may not.
 
 ## `git-gc`
 `git-gc` runs `git gc --aggressive` on all Git repositories given as arguments.

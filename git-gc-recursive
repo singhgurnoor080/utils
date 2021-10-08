@@ -4,7 +4,7 @@ if [ $# -ne 1 ]; then
 	echo "$0 prefix"
 	exit 1 
 fi
-
+#   Taking Everything
 # From now on, abort on first error
 set -e
 
